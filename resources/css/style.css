@@ -1,0 +1,12 @@
+html {
+  color: rebeccapurple;
+  background-color: black;
+}
+/*.header {
+  display: flex;
+  flex-direction: row;
+}*/
+#logo {
+background-image: url('../images/img-tea-cozy-logo.png');
+height: 200px;
+}
